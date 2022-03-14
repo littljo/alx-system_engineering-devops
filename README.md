@@ -1,1 +1,2 @@
-# alx-system_engineering-devops
+This project is on shell redirections
+# alx-low_level_programming
