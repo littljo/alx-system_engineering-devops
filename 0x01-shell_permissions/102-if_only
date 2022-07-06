@@ -1,4 +1,4 @@
-File Edit Options Buffers Tools Sh-Script Help                                  
+                         
 #!/bin/bash                                                                     
 chown --from=guillaume  betty  hello
 
@@ -13,12 +13,3 @@ chown --from=guillaume  betty  hello
 
 
 
-
-
-
-
-
-
-
--UU-:**--F1  102-if_only    All L2    Git-main  (Shell-script[bash] Isearch) ---
-I-search: 
